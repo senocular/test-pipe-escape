@@ -1,3 +1,3 @@
 | Left | Right |
 | --- | --- |
-| le \| ft | right |
+| `le \| ft` | right |
